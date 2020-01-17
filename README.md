@@ -1,6 +1,6 @@
 ![FRX.WORLD](images/logo.png)
 
-# Forex Token
+# Forex(FRX) Token
 
 ## Overview
 
