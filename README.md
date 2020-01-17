@@ -19,7 +19,7 @@ https://etherscan.io/token/0x2FEeb86860b42BfD84D22111d360246E7E9e8257
 
 The Forex token `FRXToken.sol` is ERC-20 standard compatible and has the following additional characteristics:
 
-1. An initial amount of 5000,000,000 FRX tokens supply.
+1. An initial amount of 500,000,000 FRX tokens supply.
 2. An ability to burn tokens by users to reduce total number of token supply.
 
 FRX.WORLD plans to do the following:
